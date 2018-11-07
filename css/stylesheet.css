@@ -3,9 +3,9 @@ body{
 }
 
 .huddleLogo{
-    width: 10%;
+    width: 15%;
     height: auto;
-
+    padding: 30px;
 }
 
 header{
@@ -13,7 +13,7 @@ header{
 }
 
 .title{
-    font-size: 28px;
+    font-size: 40px;
     font-family: 'Poppins', serif;
     font-weight: 700;
 }
@@ -21,15 +21,26 @@ header{
 .desc{
     font-size: 18px;
     color: hsl(208, 11%, 55%);
+    padding: 0 29%;
+    margin-bottom: 5%;
 }
 
 .screensImg{
     width: 50%;
     height: auto;
+    display: block;
+    margin: 0 auto;
+
 }
 
 .signUp{
     text-align: center;
+    margin-top: 15%;
+}
+
+.emailField{
+    width: 25%;
+    height: 35px;
 }
 
 .submitBtn{
