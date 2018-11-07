@@ -1,0 +1,46 @@
+body{
+    font-family: 'Open Sans';
+}
+
+.huddleLogo{
+    width: 10%;
+    height: auto;
+
+}
+
+header{
+    text-align: center;
+}
+
+.title{
+    font-size: 28px;
+    font-family: 'Poppins', serif;
+    font-weight: 700;
+}
+
+.desc{
+    font-size: 18px;
+    color: hsl(208, 11%, 55%);
+}
+
+.screensImg{
+    width: 50%;
+    height: auto;
+}
+
+.signUp{
+    text-align: center;
+}
+
+.submitBtn{
+    background-color: hsl(322, 100%, 66%);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 50px;
+}
+
+footer{
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+}
