@@ -35,7 +35,7 @@ header{
 
 .signUp{
     text-align: center;
-    margin-top: 15%;
+    margin: 15% 0;
 }
 
 .emailField{
@@ -54,4 +54,45 @@ header{
 footer{
     background-color: hsl(192, 100%, 9%);
     color: white;
+    padding-top: 5%;
 }
+
+.row1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-logo{
+    margin-left: 12%;
+}
+
+ul{
+    list-style-type: none;
+    width: 70%;
+}
+
+li{
+    display: inline;
+    margin: 4%;
+    text-align: right;
+}
+
+.row2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.SMicons{
+    margin-left: 12%;
+}
+
+.icons{
+    padding: 5px;
+}
+
+.copyright{
+    font-size: 10px;
+    margin-right: 12%;
+}
+
